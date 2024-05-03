@@ -135,7 +135,7 @@ function homeclick() { //when homeclick is clicked once the audio is over the us
 
  
   homecardAudio.addEventListener('ended', function() {
-    window.location.href = "https://indexpageminigame.netlify.app/Index.html";
+    window.location.href = "https://indexminigames.netlify.app/";
   });
   
 
